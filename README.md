@@ -5,3 +5,13 @@
 **Pikachuxxxx/Pikachuxxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
+Follow me on :
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/bstevensondev.svg?style=social)](https://twitter.com/phani_29)  
+
+Play my games on :
+
+[![itch.io]()](https://pikachuxxx.itch.io)
+
+Connect with me on :
+
