@@ -12,7 +12,6 @@
 
 
 **Play the games I made on :**
-
 [![](https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/app-icon.png)](https://pikachuxxx.itch.io)
 
 **Connect with me on :**  [![LinkedIn Connect](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-24x24.png)](https://www.linkedin.com/in/phani-srikar-78206714b/)  
