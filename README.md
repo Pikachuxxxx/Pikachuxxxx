@@ -12,7 +12,7 @@
 
 
 **Play the games I made on :**
-<a href="(https://pikachuxxx.itch.io" target="_blank">
+<a href="(https://pikachuxxx.itch.io">
 <p float="left">
   <img src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/itch-io.png" width="80" />
 </p>
