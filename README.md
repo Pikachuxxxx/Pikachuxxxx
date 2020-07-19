@@ -18,4 +18,4 @@
 
 **💬 Ask me anything [here](https://github.com/Pikachuxxxx/Pikachuxxxx/issues)**
 
-[![Pikachuxxxx's github stats](https://github-readme-stats.vercel.app/api?username=Pikachuxxxx&show_icons=true)](https://github.com/Pikachuxxxx/github-readme-stats)
+<!--[![Pikachuxxxx's github stats](https://github-readme-stats.vercel.app/api?username=Pikachuxxxx&show_icons=true)](https://github.com/Pikachuxxxx/github-readme-stats)-->
