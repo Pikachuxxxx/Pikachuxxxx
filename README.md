@@ -7,7 +7,6 @@
 
 
 **🚶‍♂️Follow me on :**
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/Phani_29.svg?style=social)](https://twitter.com/phani_29)  
 
 
