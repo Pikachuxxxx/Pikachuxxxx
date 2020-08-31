@@ -7,7 +7,7 @@
 
 
 **🚶‍♂️Follow me on :**
-[![Twitter Follow](https://img.shields.io/twitter/follow/Phani_29.svg?style=social)](https://twitter.com/phani_29)  
+[![Twitter Follow](https://img.shields.io/twitter/follow/GameGraphicsGuy.svg?style=social)](https://twitter.com/GameGraphicsGuy)  
 
 
 **🕹Play the games I made on :**
@@ -23,4 +23,8 @@
 
 ***
 
-**👨🏽‍💻Currently Working on :** [Samara Engine](https://github.com/Samara-Engine) - An Animation and State Machine Engine for 2D and 3D Rendering
+**👨🏽‍💻Currently Working on :** 
+
+[Samara Engine](https://github.com/Samara-Engine) - An Animation and State Machine Engine for 2D and 3D Rendering
+
+[Razix Engine] - The Next Generation Systemic Game Engine (Details to be updated soon)
