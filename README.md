@@ -25,6 +25,4 @@
 
 **👨🏽‍💻Currently Working on :** 
 
-[Samara Engine](https://github.com/Samara-Engine) - An Animation and State Machine Engine for 2D and 3D Rendering
-
-[Razix Engine] - The Next Generation Systemic Game Engine (Details to be updated soon)
+[Fireworks Engine](https://github.com/Pikachuxxxx/Fireworks-Engine) - A Lightweight Sandbox game engine using OpenGL for additional customisation and quick prototyping
