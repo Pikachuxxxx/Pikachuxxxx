@@ -1,11 +1,36 @@
-### Welcome To My Holy Land of Joy
+<h1><div style="text-align:center"><img src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/Pikachuxxxx.gif" width="1200"/></div></h1>
 
-<div style="text-align:center"><img src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/tumblr_inline_n7hkf5SViA1s5zj0n540.gif" height = 300/></div>
+## About Me
 
-90% of my body is made of games. Yes, it's true. I love playing and making games, especially game engines and I also love tinkering with some weird computer graphics stuff. Hop in to my profile and social media to know more about me.
+<img align='left' src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/7c79548e9f91691046e5fb1eb718a306.gif" width="200"/>
+
+**Hi, I'm Pikachuxxx or my friends call me Phani (and so can you). I'm a Graphics and Game Engine Programmer.**
+
+Here are some facts about me. 
+    
+90% of my body is made of games. 
+
+Yes, it's true. 
+
+I love playing and making games a lot. I live and dream about games all the time  
 
 
+<img align='right' src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/ezgif.com-gif-maker.gif" width="300"/>  
+    
+  
+I love working especially with game engines and also enjoy tinkering with some weird computer graphics stuff.  
 
+You know what?   
+
+**I eat and breathe pixels.**    
+
+Don't believe me? 
+
+Hop into my profile for supper and quench your thrist for pixels.  
+
+***  
+
+## Social
 **🚶‍♂️Follow me on :**
 [![Twitter Follow](https://img.shields.io/twitter/follow/GameGraphicsGuy.svg?style=social)](https://twitter.com/GameGraphicsGuy)  
 
