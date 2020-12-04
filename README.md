@@ -8,11 +8,12 @@
 
 Here are some facts about me. 
     
-90% of my body is made of games. Yes, it's true. 
+90% of my body is made of games. 
+
+Yes, it's true. 
 
 I love playing and making games a lot. I live and dream about games all the time  
 
-***  
 
 <img align='right' src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/ezgif.com-gif-maker.gif" width="300"/>  
     
@@ -23,8 +24,11 @@ You know what?
 
 **I eat and breathe pixels.**    
 
-Don't believe me? Hop into my profile for supper and quench your thrist for pixels.  
+Don't believe me? 
 
+Hop into my profile for supper and quench your thrist for pixels.  
+
+***  
 
 ## Social
 **🚶‍♂️Follow me on :**
