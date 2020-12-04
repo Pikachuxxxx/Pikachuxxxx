@@ -1,7 +1,6 @@
-### Welcome To My Holy Land of Joy
+<div style="text-align:center"><img src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/Pikachuxxxx.gif" width="800"/></div>
 
-<div style="text-align:center"><img src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/tumblr_inline_n7hkf5SViA1s5zj0n540.gif" height = 300/></div>
-
+## About Me
 90% of my body is made of games. Yes, it's true. I love playing and making games, especially game engines and I also love tinkering with some weird computer graphics stuff. Hop in to my profile and social media to know more about me.
 
 
