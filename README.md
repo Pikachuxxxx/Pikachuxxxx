@@ -58,10 +58,5 @@ And a **Million** more libraries....(I'm lying I only know a few)
 [Fireworks Engine](https://github.com/Pikachuxxxx/Fireworks-Engine) - A Lightweight Sandbox game engine using OpenGL for additional customisation and quick prototyping
 
 ***
-<details>
-  <summary>Stats</summary>
-  
-[![Pikachuxxxx's github stats](https://github-readme-stats.vercel.app/api?username=Pikachuxxxx&show_icons=true)](https://github.com/Pikachuxxxx/github-readme-stats)
-
-</details>
+## Show Your Love ❤️ By Starring my Projects.
 
