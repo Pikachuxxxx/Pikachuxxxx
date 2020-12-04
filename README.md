@@ -2,6 +2,7 @@
 
 ## About Me
 
+<div>
 <img align='left' src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/7c79548e9f91691046e5fb1eb718a306.gif" width="200"/><p>
 Hi, I'm Pikachuxxx or my friends call me Phani (and so can you). I'm a Graphics and Game Engine Programmer. 
 
@@ -10,13 +11,17 @@ Here are some facts about me.
 90% of my body is made of games. Yes, it's true. 
 
 I love playing and making games a lot. I live and dream about games all the time.
-</p>
 
+</p>
+</div>
+
+<div>
 <img align='right' src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/ezgif.com-gif-maker.gif" width="300"/><p>I love working especially with game engines and I also love tinkering with some weird computer graphics stuff. 
 
 You know what? 
 
 I eat and breathe pixels. Don't believe me? Hop into my profile for supper and quench your thrist for pixels.</p>
+</div>
 
 ## Social
 **🚶‍♂️Follow me on :**
