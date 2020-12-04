@@ -15,12 +15,18 @@ I love playing and making games a lot. I live and dream about games all the time
 </p>
 </div>
 
+***
+
 <div>
-<img align='right' src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/ezgif.com-gif-maker.gif" width="300"/><p>I love working especially with game engines and I also love tinkering with some weird computer graphics stuff. 
+<img align='right' src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/ezgif.com-gif-maker.gif" width="300"/>
+<p>
+    
+I love working especially with game engines and also enjoy tinkering with some weird computer graphics stuff. 
 
 You know what? 
 
 I eat and breathe pixels. Don't believe me? Hop into my profile for supper and quench your thrist for pixels.</p>
+
 </div>
 
 ## Social
