@@ -10,19 +10,20 @@ Here are some facts about me.
     
 90% of my body is made of games. Yes, it's true. 
 
-I love playing and making games a lot. I live and dream about games all the time.
+I love playing and making games a lot. I live and dream about games all the time  
 
-***
+***  
 
-<img align='right' src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/ezgif.com-gif-maker.gif" width="300"/>
+<img align='right' src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/ezgif.com-gif-maker.gif" width="300"/>  
     
-I love working especially with game engines and also enjoy tinkering with some weird computer graphics stuff. 
+  
+I love working especially with game engines and also enjoy tinkering with some weird computer graphics stuff.  
 
-You know what? 
+You know what?   
 
-**I eat and breathe pixels.**
+**I eat and breathe pixels.**    
 
-Don't believe me? Hop into my profile for supper and quench your thrist for pixels.
+Don't believe me? Hop into my profile for supper and quench your thrist for pixels.  
 
 
 ## Social
