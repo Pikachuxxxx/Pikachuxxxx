@@ -30,19 +30,24 @@ Hop into my profile for supper and quench your thrist for pixels.
 
 ***  
 
+## Languages and Tools
+
+<img src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/logos/c.png" width="40"/>  <img src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/logos/c++.png" width="40"/>  <img src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/logos/c%23.png" width="40"/>  <img src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/logos/swift.png" width="40"/>  <img src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/logos/VS.png" width="40"/>  <img src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/logos/Xcode.png" width="40"/>  <img src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/logos/Unity.png" width="40"/>
+
+
+And a **Million** more libraries....(I'm lying I only know a few)
+
 ## Social
 **🚶‍♂️Follow me on :**
 [![Twitter Follow](https://img.shields.io/twitter/follow/GameGraphicsGuy.svg?style=social)](https://twitter.com/GameGraphicsGuy)  
 
 
 **🕹Play the games I made on :**
-[![](https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/app-icon.png)](https://pikachuxxx.itch.io)
+[![](https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/app-icon.png)](https://pikachuxxx.itch.io)
 
 **🤝Connect with me on :**  [![LinkedIn Connect](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-24x24.png)](https://www.linkedin.com/in/phani-srikar-78206714b/)  
 
 **💬 Ask me anything [here](https://github.com/Pikachuxxxx/Pikachuxxxx/issues)**
-
-<!--[![Pikachuxxxx's github stats](https://github-readme-stats.vercel.app/api?username=Pikachuxxxx&show_icons=true)](https://github.com/Pikachuxxxx/github-readme-stats)-->
 
 **💻Find some of my useful Gists [here](https://gist.github.com/Pikachuxxxx)**
 
@@ -51,3 +56,12 @@ Hop into my profile for supper and quench your thrist for pixels.
 **👨🏽‍💻Currently Working on :** 
 
 [Fireworks Engine](https://github.com/Pikachuxxxx/Fireworks-Engine) - A Lightweight Sandbox game engine using OpenGL for additional customisation and quick prototyping
+
+***
+<details>
+  <summary>Stats</summary>
+  
+[![Pikachuxxxx's github stats](https://github-readme-stats.vercel.app/api?username=Pikachuxxxx&show_icons=true)](https://github.com/Pikachuxxxx/github-readme-stats)
+
+</details>
+
