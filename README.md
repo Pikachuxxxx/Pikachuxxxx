@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/Pikachuxxxx.gif" width="800"/></div>
+<h1><div style="text-align:center"><img src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/Pikachuxxxx.gif" width="1200"/></div></h1>
 
 ## About Me
 90% of my body is made of games. Yes, it's true. I love playing and making games, especially game engines and I also love tinkering with some weird computer graphics stuff. Hop in to my profile and social media to know more about me.
