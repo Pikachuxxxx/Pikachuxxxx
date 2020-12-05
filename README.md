@@ -26,7 +26,7 @@ You know what?
 
 Don't believe me? 
 
-Hop into my profile for supper and quench your thrist for pixels.  
+Hop into my profile for a supper with me and let's quench our thrist for pixels together.  
 
 ***  
 
