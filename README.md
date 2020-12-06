@@ -41,12 +41,7 @@ And a **Million** more libraries....(I'm lying I only know a few)
 **🕹Play the games I made on :**
 [![](https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/socialLogos/itchio.png)](https://pikachuxxx.itch.io)
 
-**🚶‍♂️Follow me on :**
-<p>
-<a href="https://twitter.com/GameGraphicsGuy">
-<img src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/socialLogos/twitter.png" width="40">
-</a>
-</p>  
+**🚶‍♂️Follow me on :** <a href="https://twitter.com/GameGraphicsGuy"><img src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/socialLogos/twitter.png" width="40"></a>
 
 **🤝Connect with me on :**
 [![LinkedIn Connect](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-24x24.png)](https://www.linkedin.com/in/phani-srikar-78206714b/)  
