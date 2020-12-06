@@ -38,13 +38,23 @@ Hop into my profile for a supper with me and let's quench our thrist for pixels 
 And a **Million** more libraries....(I'm lying I only know a few)
 
 ## Social
-<p>
-<img src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/socialLogos/itchio.png" width="40"/>
-<img src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/socialLogos/twitter.png" width="40"/>
-<img src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/socialLogos/lnkedin.jpg" width="60"/>
-<img src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/socialLogos/gist.png" width="100"/>
-</p>
+**🕹Play the games I made on :**
+[![](https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/socialLogos/itchio.png)](https://pikachuxxx.itch.io)
 
+**🚶‍♂️Follow me on :**
+<p>
+<a href="https://twitter.com/GameGraphicsGuy">
+<img src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/socialLogos/twitter.png" width="40">
+</a>
+</p>  
+
+**🤝Connect with me on :**
+[![LinkedIn Connect](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-24x24.png)](https://www.linkedin.com/in/phani-srikar-78206714b/)  
+
+**💬 Ask me anything :**
+[here](https://github.com/Pikachuxxxx/Pikachuxxxx/issues)
+
+**💻Find some of my useful Gists** [here](https://gist.github.com/Pikachuxxxx)
 
 ***
 
