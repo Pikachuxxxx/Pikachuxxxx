@@ -60,3 +60,7 @@ And a **Million** more libraries....(I'm lying I only know a few)
 ***
 ## Show Your Love ❤️ By Starring my Projects.
 
+<p>
+<h4>Do you love me even more ? </h4> <a href="https://ko-fi.com/pikachuxxx"> <img src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/kofi1.png" width="200">
+</a>
+</p>
