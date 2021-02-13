@@ -4,7 +4,9 @@
 
 <img align='left' src="https://github.com/Pikachuxxxx/Pikachuxxxx/blob/master/Resources/7c79548e9f91691046e5fb1eb718a306.gif" width="200"/>
 
-**Hi, I'm Pikachuxxx or my friends call me Phani (and so can you). I'm a Graphics and Game Engine Architect.**
+**Hi, I'm Pikachuxxx or my friends call me Phani (and so can you). I'm a Graphics and Game Engine Programmer.**
+
+### I'm currently working as a Computer Graphics Inter at [Viga Entertainment Technology](https://www.vigaet.com) in Banglore.
 
 Here are some facts about me. 
     
