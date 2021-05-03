@@ -6,8 +6,6 @@
 
 **Hi, I'm Pikachuxxx or my friends call me Phani (and so can you). I'm a Graphics and Game Engine Programmer.**
 
-### I'm currently working as a Computer Graphics Intern at [Viga Entertainment Technology](https://www.vigaet.com) in Banglore.
-
 Here are some facts about me. 
     
 90% of my body is made of games. 
